@@ -15,6 +15,9 @@ function Navigation() {
         <li>
           <Link to="/Login"></Link>
         </li>
+        <li>
+          <Link to="/Dashboard"></Link>
+        </li>
       </ul>
     </nav>
   );
