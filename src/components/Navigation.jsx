@@ -16,7 +16,7 @@ function Navigation() {
           <Link to="/Login"></Link>
         </li>
         <li>
-          <Link to="/Dashboard"></Link>
+          <Link to="/MainLayout"></Link>
         </li>
       </ul>
     </nav>
